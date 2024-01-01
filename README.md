@@ -6,4 +6,3 @@ I'm Aytaç Paçal, a PhD student at the German Aerospace Center (**D**eutsches Z
 
 🔗 [Personal website](https://aytacpacal.github.io/)
 
-![](https://komarev.com/ghpvc/?username=aytacpacal)
